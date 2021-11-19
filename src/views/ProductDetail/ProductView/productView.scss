@@ -1,0 +1,85 @@
+@import "src/styles/variables";
+
+.product-view {
+    h1{ 
+        display: flex;
+        align-items: center;
+        font-weight: bolder;
+        font-size: 28px;
+    }
+
+    p {
+        color: $label-color;
+        margin: 0px
+    }
+
+    .brand {
+        span {
+            font-weight: normal;
+            
+        }
+        .link {
+            &:hover {
+                color: $primary-color;
+                cursor: pointer;
+            }
+        }
+        font-weight: lighter;
+    }
+    .salt {
+        font-weight: lighter;
+    }
+
+    .price {
+        font-weight: bolder;
+        font-size: 22px;
+        .nrml-price {
+            font-size: 16px;
+            font-weight: lighter;
+            text-decoration: line-through;
+            margin-right: 0.5rem;
+            color: #5F7D95;
+        }
+    }
+
+    .tax {
+        font-weight: lighter;
+    }
+
+    .product-controller {
+        display: flex;
+        align-items: center;
+
+        label {
+            font-weight: lighter;
+        }
+    }
+
+    .pickup {
+        margin: 2rem 0px;
+        i {
+            font-size: 20px;
+        }
+        .estimated {
+            font-weight: lighter;
+            span {
+                color: $link-color;
+                font-weight: normal;
+                cursor: pointer;
+            }
+        }
+    }
+
+    .policy {
+        .ant-col {
+            text-align: center;
+            i {
+                font-size: 26px;
+            }
+
+            p {
+                margin-top: 0.5rem;
+            }
+        }
+    }
+}

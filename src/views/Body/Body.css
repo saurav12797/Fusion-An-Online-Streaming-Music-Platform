@@ -1,0 +1,55 @@
+.body {
+  flex: 1;
+  height: 130vh;
+  color: white;
+  padding: 30px;
+
+  background: rgb(30, 30, 30);
+  background: linear-gradient(
+    90deg,
+    rgba(30, 30, 30, 1) 6%,
+    rgba(24, 24, 24, 1) 57%,
+    rgba(24, 24, 24, 1) 100%
+  );
+  position: fixed;
+  left: 17%;
+  overflow-x: hidden;
+  width: 85%;
+}
+@media (max-width: 780px) {
+  .body {
+    left: 0;
+  }
+}
+
+.Body_info {
+  display: flex;
+  align-items: flex-end;
+  padding: 10px;
+}
+.body_infoText {
+  flex: 1;
+}
+
+.body_infoText > p {
+  font-size: 14px;
+}
+.body_infoText > h2 {
+  font-size: 48px;
+  margin-bottom: 10px;
+}
+
+.body_info > img {
+  height: 20vw;
+  margin: 0 20px;
+  box-shadow: 0 4px 60px rgba(0, 0, 0, 0.5);
+}
+
+.body_icons {
+  display: flex;
+  align-items: center;
+}
+
+.body_icon > .MuiSvgIcon-root {
+  margin-right: 20px;
+}

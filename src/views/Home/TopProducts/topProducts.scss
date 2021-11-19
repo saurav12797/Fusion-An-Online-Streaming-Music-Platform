@@ -1,0 +1,12 @@
+@import "src/styles/variables";
+
+.top-products {
+    padding: 1rem;
+    .title {
+        margin: 2.2rem 0px 1.6rem;
+        h1 {
+            font-weight: bold;
+            font-size: 28px;
+        }
+    }
+}

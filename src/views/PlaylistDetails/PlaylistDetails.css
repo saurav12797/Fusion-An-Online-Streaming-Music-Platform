@@ -1,0 +1,69 @@
+.detail h1 {
+  position: relative;
+  top: 1%;
+  left: 3%;
+}
+
+.detail {
+  flex: 1;
+  height: 120vh;
+  color: white;
+  padding: 30px;
+
+  background: rgb(30, 30, 30);
+  background: linear-gradient(
+    90deg,
+    rgba(30, 30, 30, 1) 6%,
+    rgba(24, 24, 24, 1) 57%,
+    rgba(24, 24, 24, 1) 100%
+  );
+  position: fixed;
+  left: 17%;
+  overflow-x: hidden;
+  width: 85%;
+}
+
+.detail input {
+  position: relative;
+  top: 2%;
+  left: 5%;
+  padding: 8px 50px;
+  border: none;
+  background-color: #2c2c2c;
+  width: 300px;
+  height: 30px;
+}
+
+.newplaylistCard {
+  position: relative;
+  top: 2%;
+}
+
+.searchArtist {
+  position: relative;
+  left: 20%;
+}
+/* track display */
+.popularity_text {
+  position: relative;
+  left: 29%;
+}
+.duration_text {
+  position: relative;
+  left: 43%;
+}
+
+/* playlistArtist */
+
+.playlistArtist {
+  position: relative;
+  left: 5%;
+  top: 5%;
+}
+.releaseDate {
+  position: relative;
+  left: 27%;
+}
+.duration {
+  margin-left: 50px;
+}

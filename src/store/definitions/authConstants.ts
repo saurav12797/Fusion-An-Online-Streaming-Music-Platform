@@ -1,0 +1,14 @@
+export const AUTHENTICATED: string = "authenticated_user";
+export const UNAUTHENTICATED: string = "unauthenticated_user";
+export const AUTHENTICATION_ERROR: string = "authentication_error";
+export const REQUEST_LOGIN: string = "login_request";
+export const REQUEST_LOGOUT: string = "logout_request";
+export const REQUEST_FORGOT_PASSWORD: string = "forgot_password_request";
+export const REQUEST_RESET_PASSWORD: string = "reset_password_request";
+export const SHOW_LOGIN = "show_login";
+export const CREATE_ACCOUNT = "create_account";
+export const OTP_VERIFICATION = "otp_verification";
+export const FORGET_PASSWORD = "forget_password";
+export const FORGET_PASSWORD_CHANGE = "forget_password_change";
+export const PLAY = "play";
+export const ISPLAYING = "isPlaying";

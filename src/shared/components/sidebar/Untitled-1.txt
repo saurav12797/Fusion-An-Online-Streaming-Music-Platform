@@ -1,0 +1,145 @@
+import React from "react";
+import "./Sidebar.css";
+import SidebarOption from "../sideBarOption/Index";
+
+import HomeIcon from "@material-ui/icons/Home";
+import SearchIcon from "@material-ui/icons/Search";
+import LibraryMusicIcon from "@material-ui/icons/LibraryMusic";
+import { useDataLayerValue } from "../../../views/DataLayer/Index";
+import { Link } from "react-router-dom";
+
+import { useState } from "react";
+
+import SidebarPlaylist from "./SidebarPlaylist";
+import { setItemList } from "../../../store/actions/playlistAction";
+import { useDispatch } from "react-redux";
+
+function Sidebar() {
+  /*  const [itemList, UpdateItemList] = useState([]); */
+  const dispatch = useDispatch();
+
+  //const addItemToList = () => {
+  // UpdateItemList([
+  //   ...itemList,
+  //    { item: `Playlist ${itemList.length + 1} `, key: Date.now() },
+  //   ]); /* ...item to fetch all previos iteam and also push the currentitam as array */
+  // };
+
+  return (
+    <div className="sidebar">
+      <img
+        className="sidelogo"
+        src="https://getheavy.com/wp-content/uploads/2019/12/spotify2019-830x350.jpg"
+        alt=""
+      />
+
+      <Link to="/">
+        <SidebarOption className="mysidebar" Icon={HomeIcon} title="Home" />
+      </Link>
+
+      <Link to="/search">
+        <SidebarOption className="mysidebar" Icon={SearchIcon} title="Search" />
+      </Link>
+
+      <Link to="/library">
+        <SidebarOption
+          className="mysidebar"
+          Icon={LibraryMusicIcon}
+          title=" Your Library"
+        />
+      </Link>
+
+      <br />
+
+      <button className="addlistBtn" onClick={dispatch(setItemList())}>
+        Create Playlist
+      </button>
+
+      <hr />
+      <strong className="sidebar_title">PLAYLISTS</strong>
+
+      <SidebarPlaylist />
+      {/* itemList={itemList} updateItemList={UpdateItemList} */}
+
+      <SidebarOption title="Hip Hop" />
+      <SidebarOption title="Jazz" />
+      <SidebarOption title="Romantic" />
+      <SidebarOption title="Bollywood" />
+    </div>
+  );
+}
+
+export default Sidebar;
+
+
+
+import React, { useState } from "react";
+import { Link } from "react-router-dom";
+import { Menu, Dropdown } from "antd";
+import "./Sidebar.css";
+import playlistContainer from "../../../store/container/playlistContainer";
+
+function SidebarPlaylist(props: any) {
+  const { itemList, setItemList } = props;
+  const [currobj, setobj] = useState<string>();
+
+  function handleClick(e: any, key: string) {
+    console.log("right click");
+    e.preventDefault();
+    setobj(key);
+  }
+
+  const deleteItem = () => {
+    console.log("detelete");
+    const newList = itemList.filter((itemObj: any) => {
+      return (
+        itemObj !== currobj
+      ); /* return all elements except the key match element */
+    });
+    setItemList(newList);
+  };
+  const menu = (
+    <Menu className="menumain">
+      <Menu.Item className="mymenu" key="1">
+        Rename
+      </Menu.Item>
+      <Menu.Item className="mymenu" key="2" onClick={deleteItem}>
+        Delete
+      </Menu.Item>
+    </Menu>
+  );
+  return (
+    <>
+      <div>
+        <br />
+
+        {itemList.map((itemObj: any) => {
+          return (
+            <>
+              <Dropdown
+                className="dropdown"
+                key={itemObj.key}
+                overlay={menu}
+                trigger={["contextMenu"]}
+              >
+                <div>
+                  <Link
+                    className="newplaylist "
+                    onContextMenu={(e) => handleClick(e, itemObj.key)}
+                    to={`/PlaylistDetails/${itemObj.key}`}
+                  >
+                    {itemObj.item}
+                  </Link>
+
+                  <br />
+                </div>
+              </Dropdown>
+            </>
+          );
+        })}
+      </div>
+    </>
+  );
+}
+
+export default playlistContainer(SidebarPlaylist);

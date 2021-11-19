@@ -1,0 +1,111 @@
+@import "src/styles/variables";
+
+.product-card {
+
+
+    .img__wrapper {
+        height: 170px;
+        width: 170px;
+        border-radius: 4px;
+        overflow: hidden;
+        border: 1px solid #B9C6D1;
+        position: relative;
+        cursor: pointer;
+        .offer-percentage {
+            position: absolute;
+            left: 0;
+            top: 0;
+            background: #FFF5E8;
+            border-radius: 4px 0px 24px 0px;
+            padding: 4px 14px 4px 8px;
+        }
+        img {
+            height: inherit;
+            width: inherit;
+            object-fit: cover;
+        }
+
+        .add-to-card {
+            width: 100%;
+            z-index: 1;
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            background: $primary-color;
+            color: white;
+            text-align: center;
+            font-size: 12px;
+            padding: 7px 0px;
+            cursor: pointer;
+            transition: bottom 0.5s;
+            i {
+                margin-right: 4px;
+            }
+        }
+
+        &:hover {
+            .add-to-card {
+                bottom: 0px;
+            }
+        }
+    }
+
+    .product-content {
+        p {
+            margin: 0px;
+        }
+
+        .name {
+            color: $label-color;
+            font-size: 16px;
+        }
+
+        .strips {
+            color: #5F7D95;
+            font-size: 14px;
+        }
+
+        .brand {
+            color: #064692;
+            font-size: 14px;
+        }
+
+        .dot {
+            background-color: #B9C6D1;
+            color: #B9C6D1;
+            border-radius: 100%;
+            font-size: 4px;
+            margin: 0px 6px;
+        }
+
+        .detail {
+            display: flex;
+            align-items: center;
+        }
+
+
+        .price {
+            span {
+                color: #B9C6D1;
+            }
+            .discount {
+                color: $primary-color;
+                font-size: 15px;
+            }
+        }
+    } 
+}
+
+.product-horizontal {
+    display: flex;
+    margin-top: 1rem;
+
+    .product-content {
+        margin-left: 18px;
+    }
+
+    .img__wrapper {
+        height: 130px;
+        width: 140px;
+    }
+}

@@ -1,0 +1,24 @@
+@import "src/styles/variables";
+
+.product-list {
+    .title {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        h1 {
+            font-weight: bolder;
+            font-size: 24px;
+        }
+        .sort {
+            font-weight: lighter;
+            font-size: 15px;
+            .ant-select {
+                margin-left: 10px;
+            }
+        }
+    }
+    .ant-col-20 {
+        padding: 1rem 2.5rem 0px;
+    }
+}

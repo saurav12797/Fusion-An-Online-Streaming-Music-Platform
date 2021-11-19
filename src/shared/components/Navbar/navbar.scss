@@ -1,0 +1,81 @@
+@import "src/styles/variables";
+
+.app-navbar {
+  background: $primary-color;
+  padding: 1rem 0.3rem;
+  height: inherit !important;
+  z-index: 3;
+
+  .logo {
+    font-weight: bold;
+    color: white;
+    margin: 0px;
+  }
+
+
+  .link-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 14vw;
+  
+    p {
+      margin: 0px;
+      color: white;
+      cursor: pointer;
+      i {
+        margin-right: 4px;
+        &::before{
+          color: white;
+        }
+      }
+    }
+
+    .new {
+      background-color: black;
+      color: white;
+      border-radius: 4px;
+      font-weight: lighter;
+      font-size: 12px;
+      padding: 4px 6px;
+      margin-left: 4px;
+    }
+  }
+  
+  .nav-container {
+    display: flex;
+    justify-content: space-between;
+  .ant-menu {
+    background: $primary-color !important;
+
+    .nav-or {
+      margin: 0px !important;
+      padding: 0px !important;
+    }
+
+    .ant-menu-item {
+      font-size: 14px;
+      color: white;
+      i {
+        margin-right: 6px;
+        font-size: 18px;
+      }
+
+      .icon-profile-top {
+        font-size: 24px;
+        margin-bottom: -10px;
+      }
+
+      &:hover,
+      &:active,
+      &.ant-menu-item-selected {
+        background: unset !important;
+        color: white !important;
+      }
+    }
+  }
+
+  .search-products {
+    height: 100%;
+  }
+}
+}

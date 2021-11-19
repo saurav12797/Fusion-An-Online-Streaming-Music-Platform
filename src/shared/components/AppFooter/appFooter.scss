@@ -1,0 +1,60 @@
+@import "src/styles/variables";
+
+.app-footer {
+  background-color: $secondary-color;
+  padding: 2.5rem 2.5rem 1rem;
+
+  .link {
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: lighter;
+    cursor: pointer;
+  }
+
+  .news-letter__subscription {
+    label {
+      color: white;
+      font-size: 16px;
+      font-weight: lighter;
+    }
+    .form {
+      display: flex;
+      margin-top: 0.75rem;
+      margin-bottom: 1.5rem;
+    }
+  }
+
+  .ant-divider {
+    background-color: rgba($color: #ffffff, $alpha: 0.3);
+    margin: 2rem 0px;
+  }
+
+  .copy-rights {
+    text-align: center;
+    color: rgba($color: #ffffff, $alpha: 0.3);
+  }
+
+  .download-app {
+    text-align: center;
+    label {
+        color: white;
+    }
+    img {
+        text-align: center;
+        display: block;
+        width: 8rem;
+        margin: auto;
+        margin-top: 0.75rem;
+        cursor: pointer;
+    }
+  }
+  .social-media {
+      margin-top: 1rem;
+      img {
+          margin-right: 0.75rem;
+          cursor: pointer;
+      }
+  }
+}

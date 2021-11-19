@@ -1,0 +1,43 @@
+.liked_song {
+  height: 275px;
+  width: 350px;
+  background: rgb(77, 24, 243);
+  background: linear-gradient(
+    90deg,
+    rgba(77, 24, 243, 1) 0%,
+    rgba(114, 91, 236, 1) 45%,
+    rgba(130, 120, 232, 1) 100%
+  );
+
+  margin-left: 20px;
+  margin-top: 52px;
+}
+
+.liked_song h1 {
+  position: relative;
+  top: 70%;
+  left: 5%;
+}
+.liked_song h3 {
+  position: relative;
+  top: 70%;
+  left: 5%;
+  font-weight: 400;
+}
+
+.myplaylist {
+  width: 100%;
+
+  padding: 20px;
+  display: flex;
+
+  height: auto;
+}
+.libraryPlaylist {
+  width: 800px;
+  display: flex;
+  display: inline-block;
+}
+.libraryPlaylist Mycard {
+  float: left;
+}

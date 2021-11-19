@@ -1,0 +1,13 @@
+* {
+  color: white;
+}
+
+.nav {
+  padding: 30px;
+}
+
+.text-link {
+  margin-left: 50px;
+  text-decoration: none;
+  font-weight: bold;
+}

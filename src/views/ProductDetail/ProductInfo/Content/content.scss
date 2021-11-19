@@ -1,0 +1,10 @@
+@import "src/styles/variables";
+
+.content-detail {
+    pointer-events: none;
+    .content-title {
+        margin: 0px;
+        font-weight: normal;
+        font-size: 18px;
+    }
+}

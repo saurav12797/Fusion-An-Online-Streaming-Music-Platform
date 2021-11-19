@@ -1,0 +1,16 @@
+<svg id="instagram" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32.879" height="32.879" viewBox="0 0 32.879 32.879">
+  <defs>
+    <linearGradient id="linear-gradient" x2="1.054" y2="1.091" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4564c9"/>
+      <stop offset="0.204" stop-color="#843bc8"/>
+      <stop offset="0.408" stop-color="#be33b2"/>
+      <stop offset="0.572" stop-color="#fd5340"/>
+      <stop offset="0.867" stop-color="#ffb64e"/>
+      <stop offset="1" stop-color="#ffd253"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_38495" data-name="Group 38495">
+    <rect id="Rectangle_17" data-name="Rectangle 17" width="32.879" height="32.879" rx="4" fill="url(#linear-gradient)"/>
+  </g>
+  <path id="Path_62965" data-name="Path 62965" d="M13.691,2h-6.9A4.4,4.4,0,0,0,2,6.787v6.9a4.4,4.4,0,0,0,4.787,4.795h6.9a4.4,4.4,0,0,0,4.787-4.787v-6.9A4.387,4.387,0,0,0,13.691,2ZM10.239,13.435a3.2,3.2,0,1,1,3.2-3.2A3.2,3.2,0,0,1,10.239,13.435Zm4.877-7.415a.951.951,0,0,1-.173.272.951.951,0,0,1-.272.173.815.815,0,0,1-.9-.173.951.951,0,0,1-.173-.272.776.776,0,0,1,0-.626.85.85,0,0,1,.173-.272.823.823,0,0,1,.741-.222.5.5,0,0,1,.157.049.624.624,0,0,1,.148.074,1.3,1.3,0,0,1,.124.1.85.85,0,0,1,.173.272.776.776,0,0,1,0,.626Z" transform="translate(6.526 6.059)" fill="#fff"/>
+</svg>

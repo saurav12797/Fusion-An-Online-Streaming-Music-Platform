@@ -1,0 +1,155 @@
+.footer {
+  position: fixed;
+  display: flex;
+  justify-content: space-between;
+  bottom: 0;
+  height: 35px;
+  width: 97%;
+  background-color: #181818;
+  padding: 20px;
+  color: white;
+}
+
+.progress {
+  position: relative;
+  left: 130%;
+  top: 50%;
+
+  color: #1d1d1d;
+}
+.footerbtn div {
+  position: relative;
+  left: 640px;
+  margin-bottom: 70px;
+}
+.SkipNextIcon {
+  position: relative;
+  left: 148%;
+  bottom: 30%;
+}
+.SkipPreviousIcon {
+  position: relative;
+  left: 130%;
+  bottom: 30%;
+}
+.ShuffleIcon {
+  position: relative;
+  left: 190%;
+  bottom: 30%;
+}
+.RepeatIcon {
+  position: relative;
+  left: 85%;
+  bottom: 30%;
+}
+.VolumeDownIcon {
+  position: relative;
+  left: 25%;
+  top: 55%;
+}
+.audiobar {
+  height: 2px;
+}
+
+.footer_left {
+  flex: 0.1;
+}
+
+.footer_center {
+  flex: 0.4;
+  padding: 0 100px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 300px;
+}
+.SkipPreviousIcon:hover,
+.SkipNextIcon:hover,
+.ShuffleIcon:hover {
+  transition: transform 0.2s ease-in-out;
+  transform: scale(1.2) !important;
+}
+
+.footer__right {
+  position: relative;
+  top: 45%;
+  right: 2%;
+}
+.footer_right {
+  flex: 0.3;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+}
+
+.footer_songInfo > h4 {
+  margin-bottom: 5px;
+}
+
+.footer_songInfo > p {
+  font-size: 12px;
+}
+
+/* progress bar */
+
+/* progress bar - chrome and safari */
+
+.currentTime {
+  position: absolute;
+  top: 15%;
+  right: 108%;
+}
+
+.trackDuration {
+  position: absolute;
+  top: 15%;
+  left: 360%;
+}
+
+.progressBar {
+  --bar-bg: #808080;
+  --seek-before-width: 0;
+  --seek-before-color: #ffc2a1;
+  --knobby: #3452a5;
+  --selectedKnobby: #26c9c3;
+
+  appearance: none;
+  background: var(--bar-bg);
+  border-radius: 10px;
+  position: relative;
+  width: 350%;
+  height: 2px;
+  outline: none;
+}
+
+/* progress bar - chrome and safari */
+.progressBar::before {
+  content: "";
+  height: 2px;
+  width: var(--seek-before-width);
+  background-color: #e7d88a;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  cursor: pointer;
+}
+
+/* knobby - chrome and safari */
+.progressBar::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  border: none;
+  background-color: #c5c5c5;
+  cursor: pointer;
+  position: relative;
+  margin: -2px 0 0 0;
+  z-index: 3;
+  box-sizing: border-box;
+}
