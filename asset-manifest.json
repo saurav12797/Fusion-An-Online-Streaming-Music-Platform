@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Fusion-An-Online-Streaming-Music-Platform/static/css/main.7f31ee63.chunk.css",
+    "main.js": "/Fusion-An-Online-Streaming-Music-Platform/static/js/main.6724dd56.chunk.js",
+    "main.js.map": "/Fusion-An-Online-Streaming-Music-Platform/static/js/main.6724dd56.chunk.js.map",
+    "runtime-main.js": "/Fusion-An-Online-Streaming-Music-Platform/static/js/runtime-main.b2f800a2.js",
+    "runtime-main.js.map": "/Fusion-An-Online-Streaming-Music-Platform/static/js/runtime-main.b2f800a2.js.map",
+    "static/js/2.3cdec522.chunk.js": "/Fusion-An-Online-Streaming-Music-Platform/static/js/2.3cdec522.chunk.js",
+    "static/js/2.3cdec522.chunk.js.map": "/Fusion-An-Online-Streaming-Music-Platform/static/js/2.3cdec522.chunk.js.map",
+    "index.html": "/Fusion-An-Online-Streaming-Music-Platform/index.html",
+    "precache-manifest.dcb91cc42819d2371e03e6317836c111.js": "/Fusion-An-Online-Streaming-Music-Platform/precache-manifest.dcb91cc42819d2371e03e6317836c111.js",
+    "service-worker.js": "/Fusion-An-Online-Streaming-Music-Platform/service-worker.js",
+    "static/css/main.7f31ee63.chunk.css.map": "/Fusion-An-Online-Streaming-Music-Platform/static/css/main.7f31ee63.chunk.css.map",
+    "static/js/2.3cdec522.chunk.js.LICENSE.txt": "/Fusion-An-Online-Streaming-Music-Platform/static/js/2.3cdec522.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2f800a2.js",
+    "static/js/2.3cdec522.chunk.js",
+    "static/css/main.7f31ee63.chunk.css",
+    "static/js/main.6724dd56.chunk.js"
+  ]
+}
