@@ -10,9 +10,15 @@ In the project directory, you can run:
 https://www.youtube.com/watch?v=K02PwLkgilY<img width="1438" alt="Screenshot 2021-11-28 at 5 21 03 PM" src="https://user-images.githubusercontent.com/36052802/143766720-25304d0f-fed3-4abd-9fef-fd97b03119a9.png">
 
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/36052802/143767062-3516b68a-6920-4d5b-985c-939ebd7bb7ba.gif)
+
+
+
+
+
 **SCREENSHOTS**
 
-<img width="1416" alt="Screenshot 2021-11-28 at 5 24 43 PM" src="https://user-images.githubusercontent.com/36052802/143766700-b7d22537-e426-4af2-85ef-e3069d6b8d00.png">
+<img width="1416" alt="Screenshot 2021-11-28 at 5 24 43 PM" src="https://user-images.githubusercontent.com/36052802/143766700-b7d22537-e426-4af2-85ef-e3069d6b8d00.png"> <br>
 
 <img width="1440" alt="Screenshot 2021-11-28 at 5 21 42 PM" src="https://user-images.githubusercontent.com/36052802/143766731-cdfd4a56-689a-4a4c-81c9-fb65b17f1769.png">
 
@@ -27,6 +33,11 @@ https://www.youtube.com/watch?v=K02PwLkgilY<img width="1438" alt="Screenshot 202
 
 
 <img width="1416" alt="Screenshot 2021-11-28 at 5 24 43 PM" src="https://user-images.githubusercontent.com/36052802/143766764-2839a6e6-e609-4339-9f8e-72921945181c.png">
+
+<img width="1440" alt="Screenshot 2021-11-28 at 5 24 54 PM" src="https://user-images.githubusercontent.com/36052802/143766867-3479ef84-92a2-415d-baac-f60d1a3cf0bc.png">
+
+
+
 
 
 
