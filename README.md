@@ -5,22 +5,47 @@ In the project directory, you can run:
 
 ### `npm i` followed by `npm start`
 
-**VIDEO LINK**<img width="1416" alt="Screenshot 2021-11-28 at 5 24 43 PM" src="https://user-images.githubusercontent.com/36052802/143766700-b7d22537-e426-4af2-85ef-e3069d6b8d00.png">
+**VIDEO LINK**
 
-https://www.youtube.com/watch?v=K02PwLkgilY
-
-**SCREENSHOTS**<img width="1438" alt="Screenshot 2021-11-28 at 5 21 03 PM" src="https://user-images.githubusercontent.com/36052802/143766686-cd4dea07-7052-4213-9ee9-33deb174af10.png">
-
-<img width="1433" alt="Screenshot 2021-11-28 at 5 21 27 PM" src="https://user-images.githubusercontent.com/36052802/143766687-5c93f58b-77a2-43bd-8a47-0eeb9825c4ea.png">
-<img width="1439" alt="Screenshot 2021-11-28 at 5 22 05 PM" src="https://user-images.githubusercontent.com/36052802/143766692-4fd5bc6f-5a1e-4298-b706-215c47dfba77.png">
-
-<img width="1440" alt="Screenshot 2021-11-28 at 5 21 42 PM" src="https://user-images.githubusercontent.com/36052802/143766690-b5add884-8796-4ee1-92b1-74d0382c256f.png">
+https://www.youtube.com/watch?v=K02PwLkgilY<img width="1438" alt="Screenshot 2021-11-28 at 5 21 03 PM" src="https://user-images.githubusercontent.com/36052802/143766720-25304d0f-fed3-4abd-9fef-fd97b03119a9.png">
 
 
-<img width="1436" alt="Screenshot 2021-11-28 at 5 22 23 PM" src="https://user-images.githubusercontent.com/36052802/143766697-36924f40-d498-4ee3-b33e-509e2e6d5454.png">
+**SCREENSHOTS**
+
+<img width="1416" alt="Screenshot 2021-11-28 at 5 24 43 PM" src="https://user-images.githubusercontent.com/36052802/143766700-b7d22537-e426-4af2-85ef-e3069d6b8d00.png">
 
 
-<img width="1424" alt="Screenshot 2021-11-28 at 5 24 20 PM" src="https://user-images.githubusercontent.com/36052802/143766698-8f3edf70-35ad-4a49-a149-29a55cf086d1.png">
+<img width="1433" alt="Screenshot 2021-11-28 at 5 21 27 PM" src="https://user-images.githubusercontent.com/36052802/143766727-afec7b15-ca0d-400e-8ede-8b4a81b6a591.png">
+
+
+<img width="1440" alt="Screenshot 2021-11-28 at 5 21 42 PM" src="https://user-images.githubusercontent.com/36052802/143766731-cdfd4a56-689a-4a4c-81c9-fb65b17f1769.png">
+
+<img width="1439" alt="Screenshot 2021-11-28 at 5 22 05 PM" src="https://user-images.githubusercontent.com/36052802/143766734-df5d2a72-464a-45bc-b035-ebeaa195d7fc.png">
+
+
+<img width="1436" alt="Screenshot 2021-11-28 at 5 22 23 PM" src="https://user-images.githubusercontent.com/36052802/143766745-ba4ad256-7500-4c1b-8d79-35948146cd0b.png">
+
+<img width="1424" alt="Screenshot 2021-11-28 at 5 24 20 PM" src="https://user-images.githubusercontent.com/36052802/143766750-a12137cd-73a9-4306-8cac-69608d2d7e0d.png">
+
+
+<img width="1416" alt="Screenshot 2021-11-28 at 5 24 43 PM" src="https://user-images.githubusercontent.com/36052802/143766764-2839a6e6-e609-4339-9f8e-72921945181c.png">
+
+
+<img width="1440" alt="Screenshot 2021-11-28 at 5 24 54 PM" src="https://user-images.githubusercontent.com/36052802/143766772-a788d773-0526-4200-b3eb-d1f106c1dc33.png">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### For Running Testcases you can run<img width="1440" alt="Screenshot 2021-11-28 at 5 24 54 PM" src="https://user-images.githubusercontent.com/36052802/143766703-8e7cc530-1fb7-4ea8-be17-bfb11374c1bb.png">
