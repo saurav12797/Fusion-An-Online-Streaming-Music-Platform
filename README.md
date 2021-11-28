@@ -32,7 +32,6 @@ https://www.youtube.com/watch?v=K02PwLkgilY
 <img width="1439" alt="Screenshot 2021-11-28 at 5 22 05 PM" src="https://user-images.githubusercontent.com/36052802/143766734-df5d2a72-464a-45bc-b035-ebeaa195d7fc.png">
 
 
-<img width="1436" alt="Screenshot 2021-11-28 at 5 22 23 PM" src="https://user-images.githubusercontent.com/36052802/143766745-ba4ad256-7500-4c1b-8d79-35948146cd0b.png">
 
 <img width="1424" alt="Screenshot 2021-11-28 at 5 24 20 PM" src="https://user-images.githubusercontent.com/36052802/143766750-a12137cd-73a9-4306-8cac-69608d2d7e0d.png">
 
