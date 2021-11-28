@@ -1,10 +1,30 @@
-#React/Typescript/Antd boilerplate
+
+Developed a Web application which works in conjunction with an authorization, authentication server of Spotify. Includes features like playback, adding playlist, searching Artists and tracks using the Spotify API’s.
 
 In the project directory, you can run:
 
 ### `npm i` followed by `npm start`
 
-### For Running Testcases you can run
+**VIDEO LINK**<img width="1416" alt="Screenshot 2021-11-28 at 5 24 43 PM" src="https://user-images.githubusercontent.com/36052802/143766700-b7d22537-e426-4af2-85ef-e3069d6b8d00.png">
+
+https://www.youtube.com/watch?v=K02PwLkgilY
+
+**SCREENSHOTS**<img width="1438" alt="Screenshot 2021-11-28 at 5 21 03 PM" src="https://user-images.githubusercontent.com/36052802/143766686-cd4dea07-7052-4213-9ee9-33deb174af10.png">
+
+<img width="1433" alt="Screenshot 2021-11-28 at 5 21 27 PM" src="https://user-images.githubusercontent.com/36052802/143766687-5c93f58b-77a2-43bd-8a47-0eeb9825c4ea.png">
+<img width="1439" alt="Screenshot 2021-11-28 at 5 22 05 PM" src="https://user-images.githubusercontent.com/36052802/143766692-4fd5bc6f-5a1e-4298-b706-215c47dfba77.png">
+
+<img width="1440" alt="Screenshot 2021-11-28 at 5 21 42 PM" src="https://user-images.githubusercontent.com/36052802/143766690-b5add884-8796-4ee1-92b1-74d0382c256f.png">
+
+
+<img width="1436" alt="Screenshot 2021-11-28 at 5 22 23 PM" src="https://user-images.githubusercontent.com/36052802/143766697-36924f40-d498-4ee3-b33e-509e2e6d5454.png">
+
+
+<img width="1424" alt="Screenshot 2021-11-28 at 5 24 20 PM" src="https://user-images.githubusercontent.com/36052802/143766698-8f3edf70-35ad-4a49-a149-29a55cf086d1.png">
+
+
+### For Running Testcases you can run<img width="1440" alt="Screenshot 2021-11-28 at 5 24 54 PM" src="https://user-images.githubusercontent.com/36052802/143766703-8e7cc530-1fb7-4ea8-be17-bfb11374c1bb.png">
+
 `npm run test`
 
 ### For dev builds you can run
