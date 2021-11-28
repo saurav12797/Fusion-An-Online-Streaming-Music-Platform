@@ -7,8 +7,7 @@ In the project directory, you can run:
 
 **VIDEO LINK**
 
-https://www.youtube.com/watch?v=K02PwLkgilY<img width="1438" alt="Screenshot 2021-11-28 at 5 21 03 PM" src="https://user-images.githubusercontent.com/36052802/143766720-25304d0f-fed3-4abd-9fef-fd97b03119a9.png">
-
+https://www.youtube.com/watch?v=K02PwLkgilY
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/36052802/143767062-3516b68a-6920-4d5b-985c-939ebd7bb7ba.gif)
 
@@ -17,6 +16,9 @@ https://www.youtube.com/watch?v=K02PwLkgilY<img width="1438" alt="Screenshot 202
 
 
 **SCREENSHOTS**
+
+<img width="1438" alt="Screenshot 2021-11-28 at 5 21 03 PM" src="https://user-images.githubusercontent.com/36052802/143766720-25304d0f-fed3-4abd-9fef-fd97b03119a9.png">
+
 
 <img width="1416" alt="Screenshot 2021-11-28 at 5 24 43 PM" src="https://user-images.githubusercontent.com/36052802/143766700-b7d22537-e426-4af2-85ef-e3069d6b8d00.png"> <br>
 
