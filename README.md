@@ -19,12 +19,14 @@ https://www.youtube.com/watch?v=K02PwLkgilY
 
 <img width="1438" alt="Screenshot 2021-11-28 at 5 21 03 PM" src="https://user-images.githubusercontent.com/36052802/143766720-25304d0f-fed3-4abd-9fef-fd97b03119a9.png">
 
+<img width="1433" alt="Screenshot 2021-11-28 at 5 21 27 PM" src="https://user-images.githubusercontent.com/36052802/143766727-afec7b15-ca0d-400e-8ede-8b4a81b6a591.png">
+
 
 <img width="1416" alt="Screenshot 2021-11-28 at 5 24 43 PM" src="https://user-images.githubusercontent.com/36052802/143766700-b7d22537-e426-4af2-85ef-e3069d6b8d00.png"> <br>
 
 <img width="1440" alt="Screenshot 2021-11-28 at 5 21 42 PM" src="https://user-images.githubusercontent.com/36052802/143766731-cdfd4a56-689a-4a4c-81c9-fb65b17f1769.png">
 
-<img width="1433" alt="Screenshot 2021-11-28 at 5 21 27 PM" src="https://user-images.githubusercontent.com/36052802/143766727-afec7b15-ca0d-400e-8ede-8b4a81b6a591.png">
+
 
 <img width="1439" alt="Screenshot 2021-11-28 at 5 22 05 PM" src="https://user-images.githubusercontent.com/36052802/143766734-df5d2a72-464a-45bc-b035-ebeaa195d7fc.png">
 
