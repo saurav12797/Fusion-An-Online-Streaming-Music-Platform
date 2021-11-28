@@ -14,11 +14,9 @@ https://www.youtube.com/watch?v=K02PwLkgilY<img width="1438" alt="Screenshot 202
 
 <img width="1416" alt="Screenshot 2021-11-28 at 5 24 43 PM" src="https://user-images.githubusercontent.com/36052802/143766700-b7d22537-e426-4af2-85ef-e3069d6b8d00.png">
 
+<img width="1440" alt="Screenshot 2021-11-28 at 5 21 42 PM" src="https://user-images.githubusercontent.com/36052802/143766731-cdfd4a56-689a-4a4c-81c9-fb65b17f1769.png">
 
 <img width="1433" alt="Screenshot 2021-11-28 at 5 21 27 PM" src="https://user-images.githubusercontent.com/36052802/143766727-afec7b15-ca0d-400e-8ede-8b4a81b6a591.png">
-
-
-<img width="1440" alt="Screenshot 2021-11-28 at 5 21 42 PM" src="https://user-images.githubusercontent.com/36052802/143766731-cdfd4a56-689a-4a4c-81c9-fb65b17f1769.png">
 
 <img width="1439" alt="Screenshot 2021-11-28 at 5 22 05 PM" src="https://user-images.githubusercontent.com/36052802/143766734-df5d2a72-464a-45bc-b035-ebeaa195d7fc.png">
 
@@ -31,25 +29,12 @@ https://www.youtube.com/watch?v=K02PwLkgilY<img width="1438" alt="Screenshot 202
 <img width="1416" alt="Screenshot 2021-11-28 at 5 24 43 PM" src="https://user-images.githubusercontent.com/36052802/143766764-2839a6e6-e609-4339-9f8e-72921945181c.png">
 
 
-<img width="1440" alt="Screenshot 2021-11-28 at 5 24 54 PM" src="https://user-images.githubusercontent.com/36052802/143766772-a788d773-0526-4200-b3eb-d1f106c1dc33.png">
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-### For Running Testcases you can run<img width="1440" alt="Screenshot 2021-11-28 at 5 24 54 PM" src="https://user-images.githubusercontent.com/36052802/143766703-8e7cc530-1fb7-4ea8-be17-bfb11374c1bb.png">
-
+### For Running Testcases you can run
 `npm run test`
 
 ### For dev builds you can run
