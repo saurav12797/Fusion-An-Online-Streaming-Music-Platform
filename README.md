@@ -5,6 +5,11 @@ In the project directory, you can run:
 
 ### `npm i` followed by `npm start`
 
+**TECHNOLOGIES USED**
+
+HTML, CSS, JavaScript, React.js, TypeScript, Redux, Axios, REST API
+ 
+
 **VIDEO LINK**
 
 https://www.youtube.com/watch?v=K02PwLkgilY
